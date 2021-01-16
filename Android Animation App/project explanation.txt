@@ -1,0 +1,28 @@
+First: Splash Page
+Prepared animations.
+Get animations that are pre-created on a site like LottieFiles
+Get the dependancy that you add to your gradle dependencies. It is like adding a css stylesheet on html
+import your image to your assets. These can be files like a Json file.
+In the layout, you can implement your image and set things like the animations to loop infinitely.
+Splash Screen: You can remove the toolbars at the top via the styles xml and by java activity.
+
+Second: Dashboard Page
+Create your own animations with a resource file under anim.
+its an animation resource file that you can alter the Alpha and translates.
+you can use froms and tos sent on alphas and delts while incorporating durations for the transition processes.
+Add in loops to set the animation playing forever.
+
+In this page I have a bounce animation on the increment button and a blink animation on the decriment button.
+Android Studio has animation capacities built in as it is evident by the imports of Animation and animation utils.
+
+Included in the app are some extra animations that can be accessed in the anim resource files. You can go in there and alter values and 
+animation actions on the buttons or other items on this app. Import them to your app and apply them to your items!
+
+Third: Activity Page
+Ive created a custom animation along a custom path. This is just to show you the diversities of animations. 
+
+Thought process:
+Randomize the total amount of ladder "rungs"
+each ladder rung from 1 to x is separated by a consistent distance
+each time the monkey reaches that point it will be programmed to go left or right.
+
