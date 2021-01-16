@@ -13,6 +13,8 @@ Please send me a request for the id and password
 ## Keylo Mapping
 This web app uses ASP.net with the main code in Javascript. This app was developed for a client in the real estates market. With access to their database, a user will enter a keyword that is preferrably a location in Canada. This will generate a radius by geolocating the searched address. Within the radius of the search, if there are any listings of available homes, the app will display them with a marker. Unfortunately, due to NDA, I will not be sharing the database.
 
+Google Maps API Key is deactivated.
+
 ## Team C Project
 Using ASP.net and entity model, crud operations are conducted. This was a group project, but my part was the purchasing subsystem. Depending on the vendor selected, the available items for purchase will be populated in a gridview. The user can select the needed items and then add them to an order from that vendor. If the user chooses to finish the order later, the order can be saved and accessed for later. There will can only be 1 order saved per vendor. Once the order is completed and the user chooses to order the items, they can go forward and submit the order, in which the system will generate the a new order and the saved items will be deleted upon conmpletion.
 
