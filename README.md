@@ -3,6 +3,11 @@ Demo repository
 
 Welcome to my repository. This will be a temporary repository to showcase my work for the time being. I do not have much, but I will continue to add more!
 
+## CV website
+This was just a small website to tie json data into a formatted webpage. I will update only the Json file to update my CV on this website.
+
+Page: https://gifted-bohr-07b725.netlify.app/
+
 ## Cars Catalog
 This is a quick and simple PHP demo. A basic crud application with two tables on phpMyAdmin is used. One table holds all the information of the CRUD operations. The second table will utilize the votes from viewers. To keep voting as unique as possible, I record the user's IP address as an identifier.
 
