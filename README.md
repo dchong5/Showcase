@@ -4,7 +4,7 @@ Demo repository
 Welcome to my repository. This will be a temporary repository to showcase my work for the time being. I do not have much, but I will continue to add more!
 
 ## CV website
-This was just a small website to tie json data into a formatted webpage. I will update only the Json file to update my CV on this website.
+This was just a small and quick website to tie json data into a formatted webpage. I will update only the Json file to update my CV on this website.
 
 Page: https://gifted-bohr-07b725.netlify.app/
 
