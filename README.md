@@ -23,5 +23,7 @@ Google Maps API Key is deactivated.
 ## Team C Project
 Using ASP.net and entity model, crud operations are conducted. This was a group project, but my part was the purchasing subsystem. Depending on the vendor selected, the available items for purchase will be populated in a gridview. The user can select the needed items and then add them to an order from that vendor. If the user chooses to finish the order later, the order can be saved and accessed for later. There will can only be 1 order saved per vendor. Once the order is completed and the user chooses to order the items, they can go forward and submit the order, in which the system will generate the a new order and the saved items will be deleted upon conmpletion.
 
+Please check this video for a demo of this project: https://youtu.be/CP5fOo9EXso
+
 ## Android Animation App
 This app is a simple app of adding a few different methods of animations in an android app. Initially the app would start up a splash screen. The main menu has animations incorporated into the buttons. Lastly, the final screen is a snakes-and-ladders type mini-game. Where the first ladder rung will always be taken by the moving monkeys. The idea is to set a winning and losing choice by the moneys falling and the ladder rungs being randomly generated. This part shows animation via a constant refresh.
